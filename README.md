@@ -6,5 +6,5 @@
 
 * Mã giảng viên : Th0091179
 
-*Khoa: Công nghệ thông tin 
+* Khoa: Công nghệ thông tin 
 
